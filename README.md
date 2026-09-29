@@ -22,12 +22,7 @@ My journey of solving 100 Data Structures and Algorithms problems using Python.
 ## ✅ Completed Questions
 
 | No. | Problem | Topic | Status |
-|---|---|---|---|
-| 1 | Find Largest Element | Array | ✅ |
-| 2 | Find Smallest Element | Array | ✅ |
-| 3 | Find Sum of Array | Array | ✅ |
-| 4 | Reverse Array | Array | ✅ |
-| 5 | Count Even and Odd | Array | ✅ |
+|---|---|---|-
 
 ## 💻 Language
 
